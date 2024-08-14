@@ -11,7 +11,7 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silkair&layout=compact)
 </div>
 
-## 💡 Tech stack 
+## 💡 Tech stack  
 <br>
 <div align =center>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
