@@ -4,7 +4,7 @@
 </div>
 
 <br>
-<!--이렇게 하면 어떻게 되늗넌가--> 
+
 <div align="center">
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silkair&show_icons=true&theme=radical)
